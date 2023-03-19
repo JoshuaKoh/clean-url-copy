@@ -1,6 +1,6 @@
 {
     "name": "Clean URL Copy",
-    "description": "Copy the current URL to clipboard without ? params.",
+    "description": "Copy the current URL to clipboard without ? params except q.",
     "author": "@JoshuaKoh",
     "version": "1.0",
     "manifest_version": 3,
