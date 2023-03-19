@@ -1,0 +1,15 @@
+{
+  "name": "clean-url-copy",
+  "version": "1.0.0",
+  "description": "Copy a clean URL without ? params",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chrome": "^0.0.224"
+  }
+}
